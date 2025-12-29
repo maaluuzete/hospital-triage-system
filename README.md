@@ -47,8 +47,8 @@ Below is a preview of the application's interface:
 Follow the steps below to run the project locally.
 
 ```bash
-git clone https://github.com/your-username/sistema-triagem-hospitalar.git
-cd sistema-triagem-hospitalar
+git clone https://github.com/maaluuzete/hospital-triage-system.git
+cd hospital-triage-system
 python -m venv venv
 pip install -r requirements.txt
 python main.py
